@@ -7,6 +7,7 @@ importance: 2
 category: work
 giscus_comments: true
 ---
+
 <!-- Property Investment Tableau Public Visualization -->
 <div class="row justify-content-center">
     <div class="col-12 mt-3 mt-md-0">

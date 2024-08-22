@@ -135,29 +135,12 @@
     {
       "name": "Biological Techniques",
       "level": "",
-      "keywords": [
-        "Biological sample processing and storage",
-        "Benchling",
-        "IND filing",
-        "Project management and documentation"
-      ]
+      "keywords": ["Biological sample processing and storage", "Benchling", "IND filing", "Project management and documentation"]
     },
     {
       "name": "Technical Skills",
       "level": "",
-      "keywords": [
-        "GraphPad PRISM",
-        "Python",
-        "R",
-        "Java",
-        "SQL",
-        "PowerBI",
-        "Tableau",
-        "Image J",
-        "FlowJo",
-        "LabVIEW",
-        "Mathematica"
-      ]
+      "keywords": ["GraphPad PRISM", "Python", "R", "Java", "SQL", "PowerBI", "Tableau", "Image J", "FlowJo", "LabVIEW", "Mathematica"]
     }
   ],
   "languages": [

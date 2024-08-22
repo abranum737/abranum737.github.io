@@ -7,8 +7,9 @@ importance: 1
 category: fun
 related_publications: false
 ---
-This is a project showcasing job applications across the United States broken up by job types, industries, and job titles.
----
+
+## This is a project showcasing job applications across the United States broken up by job types, industries, and job titles.
+
 <!-- Tableau Public Visualization -->
 <div class="row justify-content-center">
     <div class="col-12 col-lg-10 mt-3 mt-md-0">
