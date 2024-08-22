@@ -13,8 +13,7 @@ related_publications: false
 This dashboard provides insights into various factors to consider when choosing where to live such as college ranking, rental data, weather, and recreation.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <!-- Paste your Power BI embed code here -->
-  <iframe title="Your Report Title" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=YOUR_REPORT_ID&autoAuth=true&ctid=YOUR_TENANT_ID" frameborder="0" allowFullScreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  <iframe title="Where to live" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://app.powerbi.com/reportEmbed?reportId=b3f99e25-36de-479f-9fc7-d6ff8e2c640c&autoAuth=true&ctid=83ff14a6-eb6b-4250-b745-21bea66253dc" frameborder="0" allowFullScreen="true"></iframe>
 </div>
 
 
@@ -67,23 +66,30 @@ This dashboard provides insights into various factors to consider when choosing 
 
 <p>This interactive tool enables users to explore relationships between university locations, state demographics, climate conditions, and recreational opportunities. It provides valuable insights for students, researchers, and anyone interested in U.S. education and state-level data analysis.</p>
 
-## Data Source
+## Data Sources
 
-This dashboard uses data from the following Kaggle dataset:
+1. [US Drought Monitor Dataset](https://www.kaggle.com/datasets/us-drought-monitor/united-states-droughts-by-county)
+   - Provides weekly drought information for every county in the United States from 2011 to 2023.
+   - Includes data on drought severity levels, affected population, and more.
 
-US Drought Monitor. (2023). United States Droughts by County. Kaggle. https://www.kaggle.com/datasets/us-drought-monitor/united-states-droughts-by-county
-The dataset provides weekly drought information for every county in the United States from 2011 to 2023. It includes data on drought severity levels, affected population, and more.
+2. [National Universities Rankings Dataset](https://www.kaggle.com/datasets/thedevastator/national-universities-rankings-explore-quality-t)
+   - Offers comprehensive information on national university rankings.
+   - Includes factors such as tuition, enrollment, acceptance rates, and various quality indicators.
+   - Data sourced from the 2022-2023 US News National University Rankings.
 
-TheDevastator. (2023). National Universities Rankings: Explore Quality Through Data. Kaggle. https://www.kaggle.com/datasets/thedevastator/national-universities-rankings-explore-quality-t
-This dataset provides comprehensive information on national university rankings, including factors such as tuition, enrollment, acceptance rates, and various quality indicators. The data is sourced from the 2022-2023 US News National University Rankings.
+3. [The United States National Parks Dataset](https://www.kaggle.com/datasets/thedevastator/the-united-states-national-parks)
+   - Provides detailed information about United States National Parks.
+   - Includes park names, locations, establishment dates, areas, and visitor statistics.
+   - Offers insights into the diverse natural heritage preserved within the U.S. National Park System.
 
-TheDevastator. (2023). The United States National Parks. Kaggle. https://www.kaggle.com/datasets/thedevastator/the-united-states-national-parks
-This dataset provides comprehensive information about the United States National Parks, including details such as park names, locations, establishment dates, areas, and visitor statistics. The data offers insights into the diverse natural heritage preserved within the U.S. National Park System.
+4. [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+   - Comprehensive dataset of Earth surface temperature data from 1750 to 2015.
+   - Includes global land and ocean temperature data, as well as temperature data by country, state, and city.
+   - Compiled by Berkeley Earth, affiliated with Lawrence Berkeley National Laboratory.
 
-Berkeley Earth. (2023). Climate Change: Earth Surface Temperature Data. Kaggle. https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
-This comprehensive dataset provides Earth surface temperature data from 1750 to 2015. It includes global land and ocean temperature data, as well as temperature data by country, state, and city. The data was compiled by Berkeley Earth, which is affiliated with Lawrence Berkeley National Laboratory.
-
-Rokahr, A. (2023). Complete Census Data on 250,000 Census Blocks. Kaggle. https://www.kaggle.com/datasets/axelrokahr/complete-census-data-on-250000-census-blocks
-This comprehensive dataset provides detailed census information for approximately 250,000 census blocks across the United States. It includes a wide range of demographic, economic, and housing variables, offering a granular view of population characteristics at the census block level.
+5. [Complete Census Data on 250,000 Census Blocks](https://www.kaggle.com/datasets/axelrokahr/complete-census-data-on-250000-census-blocks)
+   - Provides detailed census information for approximately 250,000 census blocks across the United States.
+   - Includes a wide range of demographic, economic, and housing variables.
+   - Offers a granular view of population characteristics at the census block level.
 
 _Note: The data has been processed and aggregated for this visualization. For the original dataset, please refer to the Kaggle link above._
