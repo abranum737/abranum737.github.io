@@ -6,3 +6,4 @@ repo_description_lines_max: 2
 github_repos:
   - abranum737/paper_length
   - abranum737/clinicaltrialsearch
+  - abranum737/Clinvar_data_organization
