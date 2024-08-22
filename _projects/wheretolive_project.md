@@ -2,7 +2,7 @@
 layout: page
 title: Where to Live
 description: PowerBI dashboard exploring living locations
-img: assets/img/4.jpg
+img: assets/img/wheretolive.png
 importance: 3
 category: work
 related_publications: false
@@ -16,8 +16,6 @@ This dashboard provides insights into various factors to consider when choosing 
   <iframe title="Where to live" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://app.powerbi.com/view?r=eyJrIjoiMmEwNmE4NzctYjcyNS00OWNlLWFiNjAtMDRiNGNkZTllNzU5IiwidCI6IjMxZDdlMmE1LWJkZDgtNDE0ZS05ZTk3LWJlYTk5OGViZGZlMSIsImMiOjN9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 </div>
 
-
-## About This Dashboard
 
 <p>This dashboard offers a comprehensive view of universities across the United States, complemented by state-specific demographic, weather, and recreation information.</p>
 
