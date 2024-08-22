@@ -58,7 +58,7 @@
       "summary": "Conducted clinical immunology and infectious disease research, focusing on various conditions using advanced laboratory techniques.",
       "highlights": [
         "Researched Covid-19, HIV, AIDS, allergy, and asthma using flow cytometry, ELISA, qPCR, and cytokine multiplex",
-        "Analyzed results using R and automated tasks with Python",
+        "Analyzed results using flowjo and automated tasks with Python",
         "Managed patient sample processing, storage, and logging"
       ]
     },
@@ -140,7 +140,7 @@
     {
       "name": "Technical Skills",
       "level": "",
-      "keywords": ["GraphPad PRISM", "Python", "R", "Java", "SQL", "PowerBI", "Tableau", "Image J", "FlowJo", "LabVIEW", "Mathematica"]
+      "keywords": ["GraphPad PRISM", "Python", "R", "Java", "SQL", "PowerBI", "Tableau", "Image J", "FlowJo", "LabVIEW"]
     }
   ],
   "languages": [
