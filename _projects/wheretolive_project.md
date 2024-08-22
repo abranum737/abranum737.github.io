@@ -12,9 +12,11 @@ related_publications: false
 
 This dashboard provides insights into various factors to consider when choosing where to live such as college ranking, rental data, weather, and recreation.
 
-<div style="position: relative; padding-bottom: 47.48%; height: 0; overflow: hidden;">
-  <iframe title="Where to live" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://app.powerbi.com/reportEmbed?reportId=b3f99e25-36de-479f-9fc7-d6ff8e2c640c&autoAuth=true&ctid=83ff14a6-eb6b-4250-b745-21bea66253dc" frameborder="0" allowFullScreen="true"></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <!-- Paste your Power BI embed code here -->
+  <iframe title="Your Report Title" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=YOUR_REPORT_ID&autoAuth=true&ctid=YOUR_TENANT_ID" frameborder="0" allowFullScreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
+
 
 ## About This Dashboard
 
