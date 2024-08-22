@@ -3,7 +3,7 @@ layout: page
 title: Job Search
 description: Tracking dashboard for my job search
 img: assets/img/Job-search-tracker.png
-importance: 1
+importance: 2
 category: fun
 related_publications: false
 ---

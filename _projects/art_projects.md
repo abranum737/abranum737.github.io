@@ -3,7 +3,7 @@ layout: page
 title: Artistic Projects
 description: Showcase of artistic projects I have worked on
 img: assets/img/tiger-drawing.JPG
-importance: 2
+importance: 1
 category: fun
 ---
 
