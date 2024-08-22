@@ -11,7 +11,7 @@ category: fun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Room_mockup.png" title="Accent Wall" class="img-fluid rounded z-depth-1" width="75%" %}
+        {% include figure.liquid loading="eager" path="assets/img/Room_mockup.png" title="Accent Wall" class="img-fluid rounded z-depth-1" width="70%" %}
     </div>
 </div>
 
@@ -19,12 +19,13 @@ category: fun
 
 <ul>
     <li><strong>Concept:</strong> Evolution of a mountain-inspired accent wall design, demonstrating variations from naturalistic to minimalist styling.</li>
-  <li><strong>Key Elements:</strong>
-    <ul>
-        <li>Left image: Simplified mountain scene in shades of green</li>
-        <li>Top right: Enhanced version with wooden slat pattern and LED sun</li>
-        <li>Bottom right: Minimalist interpretation with a reduced color palette</li>
-    </ul>
+    <li><strong>Key Elements:</strong>
+        <ul>
+            <li>Left image: Simplified mountain scene in shades of green</li>
+            <li>Top right: Enhanced version with wooden slat pattern and LED sun</li>
+            <li>Bottom right: Minimalist interpretation with a reduced color palette</li>
+        </ul>
+    </li>
 </ul>
 
 <p>These mockups illustrate how subtle changes in texture, lighting, and color complexity can dramatically alter the mood and style of an accent wall, catering to different interior design preferences.</p>
