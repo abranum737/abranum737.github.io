@@ -20,4 +20,4 @@ Hello! I’m Anne Branum-Jiao, a biomedical researcher with a passion for advanc
 
 In my spare time, I enjoy contributing to scientific discussions and learning new data analysis methods. You can often find me browsing Medium articles and PubMed for the latest in scientific research and tech trends.
 
-My publications can be found on the [publications page](/al-folio/publications/), and current projects are in the [projects page](/al-folio/projects/).
+My publications can be found on the [publications page]({{ '/publications/' | relative_url }}), and current projects are in the [projects page]({{ '/projects/' | relative_url }}).
