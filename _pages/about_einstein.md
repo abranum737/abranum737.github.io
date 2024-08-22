@@ -1,5 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello! I’m Anne Branum-Jiao, a biomedical researcher with a passion for advancing health outcomes through innovative research and data-driven insights. With a background in physics and a growing expertise in data science, I specialize in developing novel techniques to analyze and visualize complex biological data. I’m currently focused on projects that explore immune resilience and its impact on disease resistance.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time, I enjoy contributing to scientific discussions and learning new data analysis methods. You can often find me browsing Medium articles and PubMed for the latest in scientific research and tech trends.
+
+My publications can be found on the [publications page](/al-folio/publications/), and current projects are in the [projects page](/al-folio/projects/).
