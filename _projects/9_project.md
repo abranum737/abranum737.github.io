@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Artistic Projects
+description: Showcase of some special illustrator projects
 img: assets/img/6.jpg
 importance: 6
 category: fun

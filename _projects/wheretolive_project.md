@@ -8,14 +8,9 @@ category: work
 related_publications: false
 ---
 
-# Where to Live Dashboard
-
-This dashboard provides insights into various factors to consider when choosing where to live such as college ranking, rental data, weather, and recreation.
-
 <div style="position: relative; padding-bottom: 62.25%; height: 0; overflow: hidden;">
   <iframe title="Where to live" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://app.powerbi.com/view?r=eyJrIjoiMmEwNmE4NzctYjcyNS00OWNlLWFiNjAtMDRiNGNkZTllNzU5IiwidCI6IjMxZDdlMmE1LWJkZDgtNDE0ZS05ZTk3LWJlYTk5OGViZGZlMSIsImMiOjN9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 </div>
-
 
 <p>This dashboard offers a comprehensive view of universities across the United States, complemented by state-specific demographic, weather, and recreation information.</p>
 
@@ -67,20 +62,24 @@ This dashboard provides insights into various factors to consider when choosing 
 ## Data Sources
 
 1. [US Drought Monitor Dataset](https://www.kaggle.com/datasets/us-drought-monitor/united-states-droughts-by-county)
+
    - Provides weekly drought information for every county in the United States from 2011 to 2023.
    - Includes data on drought severity levels, affected population, and more.
 
 2. [National Universities Rankings Dataset](https://www.kaggle.com/datasets/thedevastator/national-universities-rankings-explore-quality-t)
+
    - Offers comprehensive information on national university rankings.
    - Includes factors such as tuition, enrollment, acceptance rates, and various quality indicators.
    - Data sourced from the 2022-2023 US News National University Rankings.
 
 3. [The United States National Parks Dataset](https://www.kaggle.com/datasets/thedevastator/the-united-states-national-parks)
+
    - Provides detailed information about United States National Parks.
    - Includes park names, locations, establishment dates, areas, and visitor statistics.
    - Offers insights into the diverse natural heritage preserved within the U.S. National Park System.
 
 4. [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+
    - Comprehensive dataset of Earth surface temperature data from 1750 to 2015.
    - Includes global land and ocean temperature data, as well as temperature data by country, state, and city.
    - Compiled by Berkeley Earth, affiliated with Lawrence Berkeley National Laboratory.
