@@ -32,7 +32,7 @@
       "summary": "Provided technical support, developed analytics dashboards, and assisted in various aspects of research publication and grant writing.",
       "highlights": [
         "Developed dashboards in PowerBI and Tableau for cohort demographics and budget management",
-        "Designed figures for publications using R and Adobe Illustrator",
+        "Designed figures for publications from R using Adobe Illustrator",
         "Assisted in grant writing, experimental design, and SOP development"
       ]
     },
@@ -42,7 +42,7 @@
       "url": "",
       "startDate": "2021-12-01",
       "endDate": "2023-07-01",
-      "summary": "Oversaw lab notebook system integration, designed experiments, and analyzed datasets using various tools.",
+      "summary": "Oversaw lab notebook system integration, wrote IND filing, designed experiments, and analyzed datasets using various tools.",
       "highlights": [
         "Managed Benchling lab notebook system integration",
         "Developed protocols and trained new lab personnel",
@@ -135,12 +135,12 @@
     {
       "name": "Biological Techniques",
       "level": "",
-      "keywords": ["Biological sample processing and storage", "Benchling", "IND filing", "Project management and documentation"]
+      "keywords": ["Biolayer interferometry", "Multi-color Flow Cytometry", "Cell culture", "RNA/DNA isolation", "NGS and qPCR", "ELISAs", "TEM and Fluorescence microscopy"]
     },
     {
       "name": "Technical Skills",
       "level": "",
-      "keywords": ["GraphPad PRISM", "Python", "R", "Java", "SQL", "PowerBI", "Tableau", "Image J", "FlowJo", "LabVIEW"]
+      "keywords": ["GraphPad PRISM", "Python", "R", "JavaScript", "SQL", "PowerBI", "Tableau", "Image J", "FlowJo", "LabVIEW"]
     }
   ],
   "languages": [

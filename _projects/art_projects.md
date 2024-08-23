@@ -28,7 +28,7 @@ category: fun
     </li>
 </ul>
 
-<p>These mockups illustrate how subtle changes in texture, lighting, and color complexity can dramatically alter the mood and style of an accent wall, catering to different interior design preferences.</p>
+<p>These mockups illustrate how subtle changes in texture, lighting, and color complexity can alter the mood and style of an accent wall, catering to different design preferences.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
