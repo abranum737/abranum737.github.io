@@ -8,7 +8,6 @@ category: fun
 ---
 
 <p>Explore a diverse collection of digital artwork created using Adobe Illustrator, demonstrating a range of techniques and styles in vector graphics:</p>
-
 <h2>Mountain Accent Wall</h2>
 
 <div class="row">
