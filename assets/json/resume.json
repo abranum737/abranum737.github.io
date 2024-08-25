@@ -135,7 +135,15 @@
     {
       "name": "Biological Techniques",
       "level": "",
-      "keywords": ["Biolayer interferometry", "Multi-color Flow Cytometry", "Cell culture", "RNA/DNA isolation", "NGS and qPCR", "ELISAs", "TEM and Fluorescence microscopy"]
+      "keywords": [
+        "Biolayer interferometry",
+        "Multi-color Flow Cytometry",
+        "Cell culture",
+        "RNA/DNA isolation",
+        "NGS and qPCR",
+        "ELISAs",
+        "TEM and Fluorescence microscopy"
+      ]
     },
     {
       "name": "Technical Skills",

@@ -59,7 +59,6 @@ giscus_comments: false
   <li><strong>Category Breakdown</strong>: Category selection enables a granular analysis of different financial categories affecting property performance.</li>
 </ol>
 
-
 <p>This interactive tool is designed to provide valuable insights for property investors, managers, and analysts, offering a dynamic way to explore and understand property investment performance over time.</p>
 
 <style>
