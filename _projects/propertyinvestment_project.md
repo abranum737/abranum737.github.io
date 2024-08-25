@@ -40,26 +40,25 @@ giscus_comments: false
 
 <p>This Tableau Public visualization offers a comprehensive view of property investment data across four distinct properties over a two-year period. The dashboard provides insights into various financial aspects of real estate investment, including income streams and expense categories.</p>
 
-<h3>Key Features:</h3>
-
-<ol>
-  <li><strong>Time Period Selection</strong>: Use the interactive slider to explore data for specific time ranges within the two-year period. This feature allows for trend analysis and seasonal comparisons.</li>
-  
-  <li><strong>Property Filter</strong>: Focus on individual properties or compare multiple properties simultaneously by selecting specific properties of interest.</li>
-  
-  <li><strong>Category Breakdown</strong>: Dive deep into financial details by filtering expense and income types. This feature enables a granular analysis of different financial categories affecting property performance.</li>
-  
-  <li><strong>Visual Data Representation</strong>: The dashboard presents data through intuitive charts and graphs, making it easy to interpret trends and patterns at a glance.</li>
-</ol>
-
 <h3>How to Use:</h3>
 
 <ul>
-  <li>Adjust the time slider to view data for specific periods</li>
   <li>Click on property names to filter data for individual or multiple properties</li>
+  <li>Adjust the time slider to view data for specific periods</li>
   <li>Use the category dropdown to focus on particular expense or income types</li>
   <li>Hover over data points for detailed information</li>
 </ul>
+
+<h3>Key Features:</h3>
+
+<ol>
+  <li><strong>Property Filter</strong>: Focus on individual properties or compare multiple properties simultaneously by selecting specific properties of interest.</li>
+
+  <li><strong>Time Period Selection</strong>: Selecting time periods allows for trend analysis and seasonal comparisons.</li>
+   
+  <li><strong>Category Breakdown</strong>: Category selection enables a granular analysis of different financial categories affecting property performance.</li>
+</ol>
+
 
 <p>This interactive tool is designed to provide valuable insights for property investors, managers, and analysts, offering a dynamic way to explore and understand property investment performance over time.</p>
 

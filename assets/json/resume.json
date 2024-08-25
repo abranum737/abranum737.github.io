@@ -26,8 +26,8 @@
     {
       "name": "Audie L. Murphy VA Hospital/UTHSCSA",
       "position": "Clinical Research Scientist (part-time)",
-      "url": "",
-      "startDate": "2021-12-01",
+      "url": "https://uthscsa.edu/",
+      "startDate": "2021-12-02",
       "endDate": "",
       "summary": "Provided technical support, developed analytics dashboards, and assisted in various aspects of research publication and grant writing.",
       "highlights": [
@@ -39,7 +39,7 @@
     {
       "name": "Molecular Templates",
       "position": "Senior Associate Scientist",
-      "url": "",
+      "url": "https://www.mtem.com/",
       "startDate": "2021-12-01",
       "endDate": "2023-07-01",
       "summary": "Oversaw lab notebook system integration, wrote IND filing, designed experiments, and analyzed datasets using various tools.",
@@ -52,7 +52,7 @@
     {
       "name": "Audie L. Murphy VA Hospital/UTHSCSA",
       "position": "Research Assistant",
-      "url": "",
+      "url": "https://www.va.gov/south-texas-health-care/locations/audie-l-murphy-memorial-veterans-hospital/",
       "startDate": "2017-11-01",
       "endDate": "2021-12-01",
       "summary": "Conducted clinical immunology and infectious disease research, focusing on various conditions using advanced laboratory techniques.",
@@ -65,7 +65,7 @@
     {
       "name": "UTSA/SwRI",
       "position": "Undergraduate Research Assistant",
-      "url": "",
+      "url": "https://www.utsa.edu/",
       "startDate": "2012-02-01",
       "endDate": "2015-05-01",
       "summary": "Conducted research on active galaxies and tested imaging hardware for space applications.",
@@ -80,7 +80,7 @@
   "education": [
     {
       "institution": "University of Texas at Austin",
-      "url": "",
+      "url": "https://www.utexas.edu/",
       "area": "Data Science",
       "studyType": "Master of Science",
       "startDate": "2023",
@@ -90,7 +90,7 @@
     },
     {
       "institution": "University of Texas at San Antonio, Honors College",
-      "url": "",
+      "url": "https://www.utsa.edu/",
       "area": "Physics",
       "studyType": "Bachelor of Science",
       "startDate": "",
@@ -106,28 +106,28 @@
       "name": "Immune resilience despite inflammatory stress promotes longevity and favorable health outcomes including resistance to infection",
       "publisher": "Nature Communications",
       "releaseDate": "2023",
-      "url": "",
+      "url": "http://dx.doi.org/10.1038/s41467-023-38238-6",
       "summary": ""
     },
     {
       "name": "Repetitive aeroallergen challenges elucidate maladaptive epithelial and inflammatory traits that underpin allergic airway diseases",
       "publisher": "Journal of Allergy and Clinical Immunology",
       "releaseDate": "2021",
-      "url": "",
+      "url": "http://dx.doi.org/10.1016/j.jaci.2021.01.008",
       "summary": ""
     },
     {
       "name": "Immunologic resilience and COVID-19 survival advantage",
       "publisher": "Journal of Allergy and Clinical Immunology",
       "releaseDate": "2021",
-      "url": "",
+      "url": "http://dx.doi.org/10.1016/j.jaci.2021.08.021",
       "summary": ""
     },
     {
       "name": "Large-scale provocation studies identify maladaptive responses to ubiquitous aeroallergens as a correlate of severe allergic rhinoconjunctivitis and asthma",
       "publisher": "Allergy",
       "releaseDate": "2021",
-      "url": "",
+      "url": "http://dx.doi.org/10.1111/all.15124",
       "summary": ""
     }
   ],

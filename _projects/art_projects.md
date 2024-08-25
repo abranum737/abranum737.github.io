@@ -9,6 +9,8 @@ category: fun
 
 <p>Explore a diverse collection of digital artwork created using Adobe Illustrator, demonstrating a range of techniques and styles in vector graphics:</p>
 
+<h2>Mountain Accent Wall</h2>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Room_mockup.png" title="Accent Wall" class="img-fluid rounded z-depth-1" width="70%" %}
@@ -23,12 +25,14 @@ category: fun
         <ul>
             <li>Left image: Simplified mountain scene in shades of green</li>
             <li>Top right: Enhanced version with wooden slat pattern and LED sun</li>
-            <li>Bottom right: Minimalist interpretation with a reduced color palette</li>
+            <li>Bottom right: Uniform wall color with an abstract circle pattern</li>
         </ul>
     </li>
 </ul>
 
 <p>These mockups illustrate how subtle changes in texture, lighting, and color complexity can alter the mood and style of an accent wall, catering to different design preferences.</p>
+
+<h2>Pathways for Cancer Theraputics</h2>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -52,6 +56,8 @@ category: fun
 
 <p class="mt-3"><strong>Figure commissioned by Curtis A. Clark for:</strong></p>
 <p>Clark, C. A., & Yang, E. S. (2021). Harnessing DNA Repair Defects to Augment Immune-Based Therapies in Triple-Negative Breast Cancer. <i>Frontiers in Oncology</i>, 11, 703802. <a href="https://doi.org/10.3389/fonc.2021.703802" target="_blank">https://doi.org/10.3389/fonc.2021.703802</a></p>
+
+<h2>Aquaponics Logo</h2>
 
 <p>This project showcases a custom logo created for a local aquaponics business, blending functional elements with artistic design:</p>
 
