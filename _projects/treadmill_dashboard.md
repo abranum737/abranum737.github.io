@@ -2,7 +2,7 @@
 layout: page
 title: Treadmill Marketing BI
 description: A marketing insights dashboard to visualize demographics across treadmill sales
-img: assets/img/select-property-management.png
+img: assets/img/Treadmill.png
 importance: 3
 category: work
 giscus_comments: false
