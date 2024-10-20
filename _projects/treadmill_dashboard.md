@@ -8,8 +8,7 @@ category: work
 giscus_comments: false
 ---
 <!-- Treadmill PowerBI Visualization -->
-<iframe title="treadmill_data" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d1310973-bd39-4816-a311-609627640750&autoAuth=true&ctid=83ff14a6-eb6b-4250-b745-21bea66253dc" frameborder="0" allowFullScreen="true"></iframe>
-
+<iframe title="treadmill_data" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWI2OTg3YjEtMTgzZC00ZjBjLWEwZDItZDYyMmM3Y2RmZTU0IiwidCI6IjMxZDdlMmE1LWJkZDgtNDE0ZS05ZTk3LWJlYTk5OGViZGZlMSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 <h2>Treadmill Marketing Dashboard</h2>
 
 <p>This PowerBI dashboard offers insights into demographic information across three types of treadmills at different price points to guide marketing strategies.</p>
