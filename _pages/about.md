@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m Anne Branum-Jiao, a data engineer with a passion for solving data issues and designing beautiful dashboards. I have experience with PowerBI, Tableu, Excel, SQL, DBT, and Snowflake. I have worked in different fields such as consumer marketing and biomedical research and have learned techniques and intuition that help me find data-driven insights. With a background in physics and a growing expertise in data science, I strive to make meaningful contributions in whatever I do.
+Hello! I’m Anne Branum-Jiao, a data engineer with a passion for solving data issues and designing beautiful dashboards. I have experience with PowerBI, Tableu, Excel, SQL, DBT, and Snowflake. I have worked in different fields such as consumer marketing and biomedical research and I use my intuition and learned techniques to help me find data-driven insights. With a background in physics and a growing expertise in data science, I strive to make meaningful contributions in whatever I do.
 
 In my spare time, I enjoy contributing to scientific discussions and learning new data analysis methods. You can often find me browsing Medium articles and PubMed for the latest in scientific research and tech trends. I have two tonkinese kitties and love watching trashy reality tv shows.
 
