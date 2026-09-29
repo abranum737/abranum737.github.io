@@ -15,8 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m Anne Branum-Jiao, a data engineer with a passion for solving data issues and designing beautiful dashboards. I have experience with PowerBI, Tableu, Excel, SQL, DBT, and Snowflake. I have worked in different fields such as consumer marketing and biomedical research and I use intuition and data exploration techniques that come from years of experience to help me find data-driven insights. With a background in physics and a growing expertise in data science, I strive to make meaningful contributions in whatever I do.
+Hello! I’m Anne Branum-Jiao, a data engineer who loves building data systems that just work and designing beautiful dashboards that people actually use. I build layered dbt pipelines on Snowflake, semantic layers for self-service analytics, and dashboards in Power BI and Tableau, and I use AI agents to speed up development and validation.
 
-In my spare time, I enjoy contributing to scientific discussions and learning new data analysis methods. You can often find me browsing Medium articles and PubMed for the latest in scientific research and tech trends. I have two tonkinese kitties and love watching trashy reality tv shows.
+I hold an MS in Data Science from UT Austin (4.0 GPA) and a BS in Physics. Before moving into data engineering, I spent six years in biomedical research, where I learned to be rigorous about where numbers come from and what they really mean. I bring that same care to every model and metric I build.
 
-My publications can be found on the [publications page]({{ '/publications/' | relative_url }}), and current projects are in the [projects page]({{ '/projects/' | relative_url }}).
+When I’m not wrangling data, I’m usually designing something, whether that’s a quilt layout, a vector illustration, or a room mockup. I have two Tonkinese kitties and love watching trashy reality TV.
+
+Take a look at my [projects]({{ '/projects/' | relative_url }}) to see my work, or my [publications]({{ '/publications/' | relative_url }}) from my research years.
