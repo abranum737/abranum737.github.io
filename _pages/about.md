@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m Anne Branum-Jiao, a data engineer who loves building data systems that just work and designing beautiful dashboards that people actually use. I build layered dbt pipelines on Snowflake, semantic layers for self-service analytics, and dashboards in Power BI and Tableau, and I use AI agents to speed up development and validation.
+Hello! I’m Annie Branum-Jiao, a data engineer who loves building data systems that just work and designing beautiful dashboards that people actually use. I build layered dbt pipelines on Snowflake, semantic layers for self-service analytics, and dashboards in Power BI and Tableau, and I use AI agents to speed up development and validation.
 
 I hold an MS in Data Science from UT Austin (4.0 GPA) and a BS in Physics. Before moving into data engineering, I spent six years in biomedical research, where I learned to be rigorous about where numbers come from and what they really mean. I bring that same care to every model and metric I build.
 

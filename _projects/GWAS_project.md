@@ -3,7 +3,7 @@ layout: page
 title: GWAS information with publications dashboard
 description: This dashboard organizes over 170k genes by snp, disease category, or search term.
 img: assets/img/GWAS.png
-importance: 1
+importance: 4
 category: work
 ---
 

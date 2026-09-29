@@ -3,7 +3,7 @@ layout: page
 title: Property Investment BI
 description: A property investment dashboard to visualize losses and gains across properties
 img: assets/img/select-property-management.png
-importance: 2
+importance: 1
 category: work
 giscus_comments: false
 ---
