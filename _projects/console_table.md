@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Console Table
-description: A mid-century inspired console table with hand-cut scalloped drawer pulls
+description: A mid-century inspired console table with scalloped drawer pulls
 img: assets/img/console_table2.png
 importance: 2
 category: fun
