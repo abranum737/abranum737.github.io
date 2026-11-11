@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Code behind my data projects
 nav: true
-nav_order: 2
+nav_order: 3
 
 repos:
   - name: ClinVar → dbSNP → PubMed Pipeline

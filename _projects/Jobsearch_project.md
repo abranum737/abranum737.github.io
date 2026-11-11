@@ -4,7 +4,7 @@ title: Job Search
 description: Tracking dashboard for my job search
 img: assets/img/Job-search-tracker.png
 importance: 4
-category: fun
+category: archive
 related_publications: false
 ---
 
